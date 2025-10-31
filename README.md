@@ -40,7 +40,8 @@ Then, standardizes the dataset to zero mean and unit variance.Computes the covar
 Projects the 3D data into 2D and visualizes it using a scatter plot.
 
 
- Author: [IAMNISHANTSHUKLA](https://github.com/IAMNISHANTSHUKLA)
+
 
  Language Used: Jupyter Notebook (`.ipynb`)
+
 
